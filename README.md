@@ -87,8 +87,7 @@ Ogni dataset è composto da una serie di campioni e per ognuno di questi un micr
 
 Dei 78 dataset a disposizione ne ho scelti 3 poiché le loro caratteristiche li rendevano abbastanza simili per poterli analizzare con lo stesso programma ma allo stesso tempo abbastanza eterogenei da fornire dei risultati qualitativi della tecnica utilizzata per fare il riconoscimento.
 
-|
- | _Tumore al cervello__GSE50161_ | _Tumore al sangue (Leucemia)__GSE63270_ | _Tumore al fegato__GSE14520 U133A_ |
+|| _Tumore al cervello__GSE50161_ | _Tumore al sangue (Leucemia)__GSE63270_ | _Tumore al fegato__GSE14520 U133A_ |
 | --- | --- | --- | --- |
 | _Campioni_ | 130 | 281 | 357 |
 | _Geni forniti_ | 54676 | 22284 | 22278 |
@@ -113,11 +112,11 @@ Questo diventa un problema nel momento in cui vado a dividere il training set da
 | Database | PCA | Features senza divisione Train/Test | Features con Trainset/testset 80/20 |
 | --- | --- | --- | --- |
 | brain | False | 54675 | 54675 |
-| True | 130 | 28 |
+|| True | 130 | 28 |
 | leukemia | False | 22283 | 22283 |
-| True | 281 | 60 |
+|| True | 281 | 60 |
 | liver | False | 22277 | 22277 |
-| True | 357 | 73 |
+|| True | 357 | 73 |
 
 Per quanto riguarda invece la classificazione ho scelto tre tecniche:
 
