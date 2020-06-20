@@ -158,3 +158,5 @@ Infine per il dataset liver la scelta del metodo migliore è piuttosto combattut
 
 [http://sbcb.inf.ufrgs.br/cumida](http://sbcb.inf.ufrgs.br/cumida)
 
+
+_Tabelle e scatter PCA omessi per prolemi di formattazione e visualizzazione_
