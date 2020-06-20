@@ -5,8 +5,7 @@
 **A.A. 2019/2020**
 
 #
-## Classificazione e riconoscimento
-## di microarray di DNA
+## Classificazione e riconoscimento di microarray di DNA
 
 Bertini Diego
 
