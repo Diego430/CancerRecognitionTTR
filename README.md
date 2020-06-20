@@ -39,7 +39,7 @@ Bertini Diego
 
 # Motivazione
 
-Il progetto si pone come obiettivo quello di riconoscere le forme tumorali che hanno una componente genetica basandosi su dati provenienti dal controllo dei microarray di DNA.
+Il progetto si pone come obiettivo quello di riconoscere le forme tumorali che hanno una componente genetica basandosi su dati provenienti da dei microarray di DNA.
 
 &quot;Un microarray di DNA (comunemente conosciuto come gene chip, chip a DNA, biochip o matrici ad alta densità) è un insieme di microscopiche sonde di DNA attaccate ad una superficie solida come vetro, plastica, o chip di silicio formanti un array (matrice). Tali array permettono di esaminare simultaneamente la presenza di moltissimi geni all&#39;interno di un campione di DNA&quot; (Wikipedia, Microarray di DNA)
 
